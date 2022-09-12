@@ -1,3 +1,3 @@
-# Team Confused
+# Team Help Me
 
-All about how confused we are about this class.
+What in the world is this class
